@@ -31,4 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
-.Backend/prodcut-service/data
+
+
+# Ignore MongoDB WiredTigerLog files
+Backend/prodcut-service/data/mongodb/journal/WiredTigerLog.*
+
