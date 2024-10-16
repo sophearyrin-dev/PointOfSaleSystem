@@ -34,5 +34,5 @@ build/
 
 
 # Ignore MongoDB WiredTigerLog files
-Backend/prodcut-service/data/mongodb/journal/WiredTigerLog.*
+!**/mongodb
 
