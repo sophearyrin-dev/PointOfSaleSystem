@@ -20,6 +20,11 @@ This implies that the minimal Spring Boot version is 3.1.4, unless you want to m
 
 See: [BUG] Lombok 1.8.26 incompatible with JDK 21 #3393
 
+# Missing app.module.ts
+```js
+ng new my-app --no-standalone --routing --ssr=false
+```
+
 
 ![image](https://github.com/user-attachments/assets/b3a07897-f9bf-48d4-b095-dd439fed7da7)
 
